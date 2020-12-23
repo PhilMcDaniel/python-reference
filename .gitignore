@@ -357,3 +357,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# extra ads
+.bat
+.vscode

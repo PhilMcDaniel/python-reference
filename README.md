@@ -14,3 +14,6 @@ https://packaging.python.org/guides/installing-using-pip-and-virtual-environment
 1. deactivate venv
     - run deactivate.bat
 1. add venv to gitignore
+
+
+# using pythonw.exe will run process in background instead of opening new terminal window
