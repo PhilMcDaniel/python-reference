@@ -361,3 +361,4 @@ venv.bak/
 # extra ads
 *.bat
 .vscode/
+mousemover.bat
