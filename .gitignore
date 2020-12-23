@@ -360,4 +360,4 @@ venv.bak/
 
 # extra ads
 *.bat
-.vscode
+.vscode/
